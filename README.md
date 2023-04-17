@@ -2,6 +2,8 @@ Code còn gà mờ ạ. Game là tiếng Anh mà comment tiếng Việt, một s
 
 Mong ae đóng góp hỗ trợ <3
 
+À còn nữa, câu ở description là của Suboi ợ
+
 Info về cách chơi v.v..
 
 --Updating--
