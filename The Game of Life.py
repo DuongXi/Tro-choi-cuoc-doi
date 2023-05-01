@@ -21,7 +21,7 @@ class Grid:
         return self.col
 
     def setRandomGrid(self):      
-        #hàm khởi tạo khung là 1 list gồm các list chứa ngẫu nhiên 2 số 0 hoặc 1 tương ứng là chết hoặc sống
+        #hàm khởi tạo khung có các ô có giá trị ngẫu nhiên
         for i in range(0,self.row+2):
             # Để tránh việc không đếm được hàng xóm còn sống của các ô ở cạnh ta mở rộng lưới với chiều dài và chiều rộng
             # là các ô có giá trị 0   
@@ -43,6 +43,7 @@ class Grid:
         os.system("cls")
         
     def setGrid(self):
+        #hàm khởi tạo khung
         for i in range(0, self.row+2):
             self.grid.append([])
             for j in range(0, self.col+2):
