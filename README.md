@@ -15,6 +15,7 @@ The Game of Life được nghĩ ra bởi nhà toán học người Anh John H. C
   - Nếu một ô đang sống có 4 hàng xóm trở lên sẽ chết tiếp trong thế hệ tiếp theo bởi dân số quá đông.
   - Nếu một ô đang sống có đúng 3 hàng xóm đang sống sẽ được được trang bị giáp thiên thần và sống lại trong thế hệ tiếp theo
  * Hàng xóm là tám ô ngay xung quanh một ô: theo chiều dọc, chiều ngang và đường chéo. Ví dụ :
+
 ![hình ảnh_2023-05-01_230046806](https://user-images.githubusercontent.com/97423916/235483352-2ebaca47-cf0b-4042-a3f7-03d9cd535adf.png)
 
 3. Thêm:
