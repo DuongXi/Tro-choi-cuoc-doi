@@ -2,8 +2,6 @@ Code còn gà mờ ạ. Một số chỗ có thể chưa tối ưu và một s�
 
 Mong ae đóng góp hỗ trợ <3
 
-À còn nữa, câu ở description là của Suboi ợ
-
 ***Info về cách chơi:
 
 The Game of Life được nghĩ ra bởi nhà toán học người Anh John H. Conway. Là trò chơi không người chơi, The Game of Life là một ví dụ khởi đầu cho về một vấn đề trong lĩnh vực toán học hiện đại được gọi là cellular automaton. Mô tả về cách chơi và một số quy ước được tham khảo từ quyển "Data Structures and Algorithms Using Python" của Rance D. Necaise.
